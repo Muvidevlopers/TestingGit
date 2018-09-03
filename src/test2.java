@@ -15,5 +15,5 @@
 TestingGit  03-Sep-2018
  */
 public class test2 {
-
+Test
 }
