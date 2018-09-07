@@ -7,7 +7,6 @@
  * Copyright 2018 www.muvi.com
 
  */
-*/This is a test by Ratikanta
 
 /**
 
@@ -15,14 +14,6 @@
 
 TestingGit  03-Sep-2018
  */
-public class test1 {
-
-
-  //edit this file for master testing
-
-function test_sunil() {
-    Print 111;
-}
-
+public class test3 {
 
 }
