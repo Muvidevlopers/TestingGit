@@ -22,8 +22,12 @@ function sunilTest() {
     //you are here
 }
 <<<<<<< Upstream, based on origin/master
+<<<<<<< Upstream, based on origin/master
 //Sruti test
 =======
 
 >>>>>>> 91cc11e rebase fix
+=======
+//Sruti test
+>>>>>>> 6b70958 teste
 }
