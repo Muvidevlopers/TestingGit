@@ -21,9 +21,13 @@ public class test3 {
 function sunilTest() {
     //you are here
 }
+<<<<<<< HEAD
 
 //Sruti test
 
 
 
+=======
+//Sruti test
+>>>>>>> 245a68949b6678e64f9ca41c05027fa5b7d0fba8
 }

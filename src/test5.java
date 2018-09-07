@@ -2,6 +2,7 @@
  * 
  */
 
+<<<<<<< HEAD
 This is the test 5 copy oof test 1
 /*
 
@@ -21,6 +22,8 @@ public class test1 {
   //edit this file for master testing
 
 
+=======
+>>>>>>> 245a68949b6678e64f9ca41c05027fa5b7d0fba8
 /*
 
  * Copyright 2018 www.muvi.com
