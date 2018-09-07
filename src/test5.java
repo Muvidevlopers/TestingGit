@@ -1,7 +1,7 @@
 /**
  * 
  */
-<<<<<<< Upstream, based on origin/master
+
 This is the test 5 copy oof test 1
 /*
 
@@ -19,7 +19,7 @@ TestingGit  03-Sep-2018
 public class test1 {
 
   //edit this file for master testing
-=======
+
 
 /*
 
@@ -43,5 +43,4 @@ function test_suniltest5() {
 }
 
 
->>>>>>> 245a689 sunil test5
 }
